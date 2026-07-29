@@ -4,7 +4,7 @@
 
 ## Overview
 
-Godot MCP Pro is an MCP server that gives AI assistants real-time access to the Godot 4 editor through a WebSocket connection. The AI can create scenes, edit scripts, simulate player input, inspect running games, build 3D environments, set up physics, add particles, manage audio, and more — all from a single conversation.
+Godot MCP Pro Mahou is an MCP server that gives AI assistants real-time access to the Godot 4 editor through a WebSocket connection. The AI can create scenes, edit scripts, simulate player input, inspect running games, build 3D environments, set up physics, add particles, manage audio, and more — all from a single conversation.
 
 ## Architecture
 
@@ -51,14 +51,5 @@ The Godot plugin runs a WebSocket server inside the editor. The MCP server conne
 3. Build MCP server: cd server && npm install && npm run build
 4. Add to .mcp.json: {"mcpServers": {"godot-mcp-pro": {"command": "node", "args": ["/path/to/server/build/index.js"]}}}
 
-## Pricing
 
-$15 one-time purchase. Lifetime updates for v1.x. Unlimited projects and machines.
 
-## Links
-
-- Website: https://godot-mcp.abyo.net/
-- Buy (itch.io): https://y1uda.itch.io/godot-mcp-pro
-- Buy (BMC): https://buymeacoffee.com/y1uda/e/512940
-- GitHub: https://github.com/youichi-uda/godot-mcp-pro
-- Discord: https://discord.gg/F4gR739y
