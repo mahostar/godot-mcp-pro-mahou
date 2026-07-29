@@ -2,7 +2,7 @@
 
 # Godot MCP Pro — Skills for AI Assistants
 
-> Copy this file to `.claude/skills.md` in your Godot project root to give Claude Code full context on how to use Godot MCP Pro effectively.
+> Copy this file to `.claude/skills.md` in your Godot project root to give Claude Code full context on how to use Godot MCP Pro Mahou effectively.
 
 ## What is Godot MCP Pro?
 
