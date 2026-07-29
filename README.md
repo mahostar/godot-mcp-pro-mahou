@@ -406,7 +406,7 @@ Open your Godot project with the plugin enabled, then use Claude Code to interac
 
 ### Tool Count
 
-| Category | Godot MCP Pro Mahou | GDAI MCP ($19) | tomyud1 (free) | Dokujaa (free) | Coding-Solo (free) | ee0pdt (free) | bradypp (free) |
+| Category | Godot MCP Pro Mahou (Free & open source) | GDAI MCP ($19) | tomyud1 (free) | Dokujaa (free) | Coding-Solo (free) | ee0pdt (free) | bradypp (free) |
 |----------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Project | 7 | 5 | 4 | 0 | 2 | 2 | 2 |
 | Scene | 9 | 8 | 11 | 9 | 3 | 4 | 5 |
