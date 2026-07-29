@@ -1,6 +1,4 @@
-> **Language:** [English](../README.md) | [日本語](README.ja.md) | [Português (BR)](README.pt-br.md) | Español | [Русский](README.ru.md) | [简体中文](README.zh.md) | [हिन्दी](README.hi.md)
-
-# Godot MCP Pro
+# Godot MCP Pro Mahou
 
 Servidor MCP (Model Context Protocol) premium para desarrollo de juegos con Godot potenciado por IA. Conecta asistentes de IA como Claude directamente a tu editor de Godot con **163 herramientas poderosas**.
 
@@ -465,6 +463,3 @@ Abre tu proyecto de Godot con el plugin activado y usa Claude Code para interact
 | **Soporte de Undo** | Todas las mutaciones pasan por el sistema UndoRedo | Modificaciones directas (sin undo) |
 | **Gestión de puertos** | Auto-escaneo de puertos 6505-6509 | Puerto fijo, posibles conflictos |
 
-## Licencia
-
-Propietario — consulta [LICENSE](../LICENSE) para más detalles. La compra incluye actualizaciones de por vida para v1.x.
