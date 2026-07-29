@@ -1,4 +1,4 @@
-# Godot MCP Pro
+# Godot MCP Pro MAHOU
 
 Premium MCP (Model Context Protocol) server for AI-powered Godot game development. Connects AI assistants like Claude directly to your Godot editor with **175 powerful tools**.
 
@@ -14,12 +14,7 @@ AI Assistant ←—stdio/MCP—→ Node.js Server ←—WebSocket:6505—→ God
 
 ## What's in this repo
 
-> ⚠️ **This public repo only contains the free Godot addon/plugin.** The MCP server (Node.js, required to connect AI assistants) is distributed as part of the paid package — **one-time purchase**, lifetime updates:
->
-> - **Buy Me a Coffee**: <https://buymeacoffee.com/y1uda/extras>
-> - **itch.io**: <https://y1uda.itch.io/godot-mcp-pro>
->
-> The paid zip includes the addon, the `server/` directory with pre-built JavaScript, `INSTALL.md`, and AI-client instructions. If you cloned this repo and don't see a `server/` folder, **that's expected** — grab the full package from one of the links above.
+this repo contain only the tools , if you want the server mcp code it yourself. or use ai agents like claude to help you.
 
 ## Quick Start
 
@@ -494,6 +489,4 @@ Open your Godot project with the plugin enabled, then use Claude Code to interac
 | **Undo Support** | All mutations go through UndoRedo system | Direct modifications (no undo) |
 | **Port Management** | Auto-scan ports 6505-6509 | Fixed port, conflicts possible |
 
-## License
 
-Proprietary — see [LICENSE](LICENSE) for details. Purchase includes lifetime updates.
